@@ -1,6 +1,12 @@
 # IDA-Crack
 IDA Pro Crack Files and Setup
 
+## Crack Guide
+See [IDA_Pro_9_Patch_Guide.md](https://github.com/UnknownOrg220758696/IDA-Crack/blob/main/IDA_Pro_9_Patch_Guide.md).
+
+## Patch File
+Use [generate.py](https://github.com/UnknownOrg220758696/IDA-Crack/blob/main/Python/generate.py)
+
 ## Release
 | Tag | Link |
 | --  |  --  |
