@@ -1,7 +1,7 @@
-# IDA-Crack
-IDA Pro Crack Files and Setup
+# IDA
+IDA Pro Setup
 
-## Crack Guide
+## Guide
 See [IDA_Pro_9_Patch_Guide.md](https://github.com/UnknownOrg220758696/IDA-Crack/blob/main/IDA_Pro_9_Patch_Guide.md).
 
 ## Patch File
